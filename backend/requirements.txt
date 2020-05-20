@@ -27,7 +27,7 @@ future==0.17.1
 gevent==1.4.0
 google-auth==1.11.2
 gunicorn==19.9.0
-httplib2==0.12.0
+httplib2==0.18.0
 itsdangerous==1.1.0
 Jinja2==2.10
 kombu==4.5.0
